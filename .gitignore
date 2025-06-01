@@ -1,0 +1,27 @@
+# OMNeT++ build and temp files
+out/
+*.o
+*.opp
+*.bak
+*.log
+*.vec
+*.sca
+*.exe
+*.dll
+*.so
+*.d
+*.obj
+*.idb
+*.pdb
+*.user
+*.net
+*.vlog
+*.vcd
+*.cproject
+*.project
+*.pyc
+.macos
+build/
+*.dep
+*.a
+*.neddoc

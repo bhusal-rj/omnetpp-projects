@@ -1,0 +1,4 @@
+message PingMessage{
+    string msg;
+    
+}
